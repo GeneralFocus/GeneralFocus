@@ -43,12 +43,9 @@ I’m the Founder of **Capriquota** and curated CodeIQ. I find myself during my 
 
 ## Rapidfire  
 -  
-Best Tech Website Winner @NaijaHacks 🏆
-* 
-1st Position @NCS Innovation Presentation Competition 🥇
-*
- 2nd Position @NCS Software Development Competition 🥈
-
+* Best Tech Website Winner @NaijaHacks 🏆
+* 1st Position @NCS Innovation Presentation Competition 🥇
+* 2nd Position @NCS Software Development Competition 🥈
 * 3rd Position @TechMoneyAfrica 🥉
 * Nacos Innovative programmer of the year 2019 🏆
 * Innovative student of the year 2020 🏆
