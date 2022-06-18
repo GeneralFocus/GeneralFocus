@@ -1,7 +1,6 @@
 ![Banner Imag](https://github.com/GeneralFocus/GeneralFocus/blob/main/download.png)  
   
 
-## Hey 👋, I'm Olabode Oyinkansola!  
   
 
 <a href="https://twitter.com/generalfocus1" target="_blank">
