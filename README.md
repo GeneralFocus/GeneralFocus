@@ -35,7 +35,12 @@ I’m the Founder of **Capriquota** and curated CodeIQ. I find myself during my 
 ⚡**FUN FACT:** I love watching anime || swimming || practicing martial art && participating in HACKATHONS; [Learning , Sharing, CodeLord] 
 
 
-{{--Your Low Budget DJ --}}😂  
+{{--Your Low Budget DJ --}}😂 
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=generalfocus)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 
 <br/>  
@@ -56,6 +61,11 @@ I’m the Founder of **Capriquota** and curated CodeIQ. I find myself during my 
   
 
 <br/>  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=generalfocus)](https://git.io/streak-stats)
+
+
+<br/>
 
 
 ## Languages and Tools  
